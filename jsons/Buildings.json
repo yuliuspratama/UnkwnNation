@@ -6,6 +6,9 @@
 		"food": 2000,
 		"gold": 2000,
 		"production": 2000,
+  "culture": 2000, 
+"happiness" : 2000, 
+"faith": 2000,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
