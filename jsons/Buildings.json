@@ -12,7 +12,14 @@
 "faith": 2000,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-"percentStatBonus": {"food": 5000,"science": 5000},
+"percentStatBonus": {
+"food": 2000,
+		"gold": 2000,
+		"production": 2000,
+  "science": 2000,
+  "culture": 2000, 
+"happiness" : 2000, 
+"faith": 2000},
 		"uniques": [
 			"[+100 Food] from [Deer] tiles [in this city]",
 			"[+100 Food] from [Bananas] tiles [in this city]",
